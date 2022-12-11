@@ -24,7 +24,7 @@ st.image(image, caption='This project is about Mall Customer Segmentation Data. 
 
 
 
-mall = pd.read_csv("Mall_Customers.csv")
+mall = pd.read_csv("finalproject/Mall_Customers.csv")
 st.write(mall)
 
 
