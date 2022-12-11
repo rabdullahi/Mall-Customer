@@ -9,7 +9,7 @@ import plotly_express as px
 
 
 
-mall = pd.read_csv("/Users/saldana/Documents/streamlit_env/finalproject/Mall_Customers.csv")
+mall = pd.read_csv("Mall_Customers.csv")
 
 st.title('Annual Income')
 st.header('Line Chart by Age and Annual Income')
