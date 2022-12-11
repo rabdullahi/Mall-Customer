@@ -14,7 +14,7 @@ st.markdown("# Mall Customer Dataset")
 
 
 
-image = Image.open('mall.jpeg')
+image = Image.open('finalproject/pages_cache/mall.jpeg')
 st.image(image, caption='This project is about Mall Customer Segmentation Data. The dataset contains the basic information (ID, Gender, Age, Annual Income, Spending Score) about the customer.')
 
 
