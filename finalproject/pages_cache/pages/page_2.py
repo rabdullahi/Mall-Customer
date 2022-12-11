@@ -9,7 +9,7 @@ import plotly_express as px
 
 
 
-mall = pd.read_csv("Mall_Customers.csv")
+mall = pd.read_csv("finalproject/Mall_Customers.csv")
 
 
 st.title('Spending Score')
