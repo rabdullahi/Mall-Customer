@@ -23,7 +23,7 @@ st.header('Bar Graph by Age and Annual Income')
 m=px.bar(mall, x="Age", y="Annual Income (k$)", color="Annual Income (k$)")
 st.plotly_chart(m)
 
-st.caption('In general, people of the age of 32, have a higher annual income. Also, we can see that the 30 age group on average has a higher annual income. Individuals who are 60+ has a lower annual income in comparison to other ages. ')
+st.caption('In general, people of the 30 year old age group on average has a higher annual income. Individuals who are 60+ has a lower annual income in comparison to other ages. ')
 
 
 
