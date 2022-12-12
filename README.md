@@ -1,5 +1,5 @@
 # Mall-Customer
-This project was created 
+This project was created as a result of Chase Romano's Visual Analytics course at the University of North Carolina at Charlotte. 
 
 # Research Questions
 1. How does the amount of annual income an individual makes compare to how much they spend at the mall?
