@@ -1,5 +1,5 @@
 # Mall-Customer
-
+This project was created 
 
 # Research Questions
 1. How does the amount of annual income an individual makes compare to how much they spend at the mall?
