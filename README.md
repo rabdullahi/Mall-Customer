@@ -12,5 +12,11 @@
 
 
 
-# LINK TO STREAMLIT APP
+# Link to Streamlit App
 [https://rabdullahi-mall-customer-finalproject.streamlit.app/]()
+
+
+
+
+# Data Source 
+[https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python](Mall Customer)
