@@ -19,4 +19,4 @@
 
 
 # Data Source 
-[https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python](Mall Customer)
+[Mall Cuatomer](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
