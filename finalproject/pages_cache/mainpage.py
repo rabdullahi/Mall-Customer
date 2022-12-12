@@ -36,7 +36,7 @@ st.header('In general, how does the amount of annual income an individual makes 
 p=px.line(mall, y="Spending Score (1-100)", x="Annual Income (k$)")
 st.plotly_chart(p)
 
-st.caption('Based on this line chart, we can see that people making around 20 thousand have a higher spending score compared to people making 100k+. You would think it would be the other way around but based on this dataset, this is not the case. What is also interesting is the people making around 40-70 thousand. This area of the chart mostly stays at the average spending score amount, there are not as much spikes compared to other areas of the chart.')
+st.caption('Based on this line chart, we can see that people making around 20 thousand have a higher spending score compared to people making 100k+. You would think it would be the other way around but based on this dataset, this is not the case. What is also interesting is the people making around 40-70 thousand. This area of the chart mostly stays at the average spending score amount, there are not as many spikes compared to other areas of the chart.')
 
 
 
