@@ -7,13 +7,8 @@ This project was created as a result of Chase Romano's Visual Analytics course a
 3. What is the relationship of Annual Income between Age versus Gender?
 
 
-
-
-
-
-
 # Link to Streamlit App
-[https://rabdullahi-mall-customer-finalproject.streamlit.app/]()
+[Streamlit App](https://rabdullahi-mall-customer-finalproject.streamlit.app/)
 
 
 
