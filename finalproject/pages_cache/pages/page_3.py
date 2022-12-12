@@ -12,7 +12,7 @@ import plotly_express as px
 mall = pd.read_csv("finalproject/Mall_Customers.csv")
 
 st.title('Annual Income')
-st.header('Line Chart by Age and Annual Income')
+st.header('Bar Graph by Age and Annual Income')
 
 
 
