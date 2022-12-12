@@ -32,4 +32,4 @@ g=px.box(mall, x="Gender", y="Spending Score (1-100)", points="all", color="Gend
 
 st.plotly_chart(g)
 
-st.caption('The spending score between male and female are the same. However males have a bigger range for spending score compared to females.')
+st.caption('The average spending score between male and female are the same. However males have a bigger range for spending score compared to females.')
